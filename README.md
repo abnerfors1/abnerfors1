@@ -19,10 +19,14 @@
 
 <h2>✨ Certifications</h2>
 
-- [CompTIA Security+](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [CompTIA Network+](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [CompTIA A+](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [CompTIA Tech+](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Microsoft Certified: Azure Administrator](https://www.credly.com/badges/d5d21577-930b-48a6-bb92-c993969d2f58/public_url)
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/d5d21577-930b-48a6-bb92-c993969d2f58/public_url)
+- [CompTIA Secure Infrastructure Specialist](https://www.credly.com/badges/d5d21577-930b-48a6-bb92-c993969d2f58/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/d5d21577-930b-48a6-bb92-c993969d2f58/public_url)
+- [CompTIA IT Operations Specialist](https://www.credly.com/badges/d5d21577-930b-48a6-bb92-c993969d2f58/public_url)
+- [CompTIA Network+](https://www.credly.com/badges/fd52d228-a3b3-441d-bcc7-40ea0d648497/public_url)
+- [CompTIA A+](https://www.credly.com/badges/ed880262-4593-4b1b-a4fe-0d6cb177a20e/public_url)
+- [CompTIA Tech+](https://www.credly.com/badges/e14eda2a-565d-4cc7-b9cc-a31436141ac5/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
